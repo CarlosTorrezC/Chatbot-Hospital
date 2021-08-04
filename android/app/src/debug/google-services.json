@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532384509001",
+    "project_id": "si1ex2med",
+    "storage_bucket": "si1ex2med.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532384509001:android:fd3750e8bfc868b66de398",
+        "android_client_info": {
+          "package_name": "com.med.si1ex2med"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532384509001-h16rnqogccg5g5t5heb43d8pv52gbvl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMDbxdnMsWB7lYiTl9ViqFRh6QtxO0o_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532384509001-h16rnqogccg5g5t5heb43d8pv52gbvl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
